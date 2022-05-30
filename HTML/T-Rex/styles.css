@@ -1,0 +1,36 @@
+h1 {
+  font-size: 100px;
+  font-style: italic;
+  color: rgb(255, 255, 255);
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+div {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  width: 780px;
+  border: 10px solid rgb(63, 2, 2);
+  padding: 20px;
+}
+
+img {
+  background-color: black;
+  width: 780px;
+  border: 10px solid rgb(63, 2, 2);
+  padding: 20px;
+}
+
+#contentFrame {
+  background-color: black;
+  width: 565px;
+  height: 320px;
+  border: 10px solid rgb(63, 2, 2);
+  padding: 20px;
+}
+
+nav {
+  font-size: 20px;
+}
